@@ -17,8 +17,15 @@
         "scrollbarSlider.background": "#575655",
         "scrollbarSlider.activeBackground": "#77D4CB",
         "scrollbarSlider.hoverBackground": "#e6a18c",
-        "terminal.background": "#000000"
+        "terminal.background": "#000000",
+        "editor.selectionBackground": "#e07b696c",
+        "editor.selectionHighlightBackground": "#dadbc488"
     },
     "workbench.colorTheme": "Material Theme Darker High Contrast",
-    "workbench.iconTheme": "eq-material-theme-icons-darker"
+    "workbench.iconTheme": "eq-material-theme-icons-darker",
+    "editor.fontLigatures": true,
+    "editor.tokenColorCustomizations": {
+           "comments": "#d79999",
+           "functions": "#89b77f"
+    }   
 }
