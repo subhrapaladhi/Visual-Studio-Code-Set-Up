@@ -2,7 +2,7 @@
 
 ## Extensions
 
-[List of extensions](extension.md)
+[List of extensions](extensions.md)
 
 ## [User Settings](settings.json)
 
