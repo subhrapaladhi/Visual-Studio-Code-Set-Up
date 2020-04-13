@@ -10,3 +10,7 @@ Paste the file in
 ```
 /home/${username}/.config/Code/User/
 ```
+
+## Things to Change
+
+- [ ] Change the color of comments
