@@ -1,0 +1,24 @@
+{
+    "terminal.integrated.rendererType": "dom",
+    "explorer.confirmDragAndDrop": false,
+    "workbench.settings.editor": "json",
+    "workbench.settings.useSplitJSON": true,
+    "workbench.colorCustomizations": {
+        "editor.background": "#000000",
+        "editor.foreground": "#ffffff",
+        "activityBar.background": "#019ee1f9",
+        "activityBar.foreground": "#ffffff",
+        "activityBar.border": "#ffffff",
+        "sideBar.background": "#0f0f0f",
+        "sideBar.foreground": "#ffffff",    
+        "statusBar.background": "#019ee1f9",
+        "statusBar.foreground": "#000000f9",
+        "statusBar.border": "#019ee1f9",
+        "scrollbarSlider.background": "#575655",
+        "scrollbarSlider.activeBackground": "#77D4CB",
+        "scrollbarSlider.hoverBackground": "#e6a18c",
+        "terminal.background": "#000000"
+    },
+    "workbench.colorTheme": "Material Theme Darker High Contrast",
+    "workbench.iconTheme": "eq-material-theme-icons-darker"
+}
