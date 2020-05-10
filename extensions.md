@@ -1,15 +1,18 @@
 code --install-extension be5invis.vscode-custom-css
-
+code --install-extension bmewburn.vscode-intelephense-client
+code --install-extension dsznajder.es7-react-js-snippets
 code --install-extension Equinusocio.vsc-material-theme
-
 code --install-extension equinusocio.vsc-material-theme-icons
-
 code --install-extension mechatroner.rainbow-csv
-
 code --install-extension ms-azuretools.vscode-docker
-
 code --install-extension ms-python.python
-
 code --install-extension ms-vscode.cpptools
-
 code --install-extension ms-vscode.Go
+code --install-extension redhat.java
+code --install-extension shyykoserhiy.vscode-spotify
+code --install-extension VisualStudioExptTeam.vscodeintellicode
+code --install-extension vscjava.vscode-java-debug
+code --install-extension vscjava.vscode-java-dependency
+code --install-extension vscjava.vscode-java-pack
+code --install-extension vscjava.vscode-java-test
+code --install-extension vscjava.vscode-maven
