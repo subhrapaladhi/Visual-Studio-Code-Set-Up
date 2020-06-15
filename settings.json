@@ -26,17 +26,18 @@
         "terminal.background": "#000000",
         "terminal.foreground": "#009dff"
     },
-    "workbench.colorTheme": "Material Theme Darker High Contrast",
+    "workbench.colorTheme": "Material Theme Darker",
     "workbench.iconTheme": "eq-material-theme-icons-darker",
     "editor.fontLigatures": true,
     "editor.tokenColorCustomizations": {
            "comments": "#d79999",
            "functions": "#89b77f"
     },
-    "window.zoomLevel": 0,
+    "window.zoomLevel": 0.75,
+    "editor.fontSize": 13.75,
+    "terminal.integrated.fontSize": 16,
     "editor.suggestSelection": "first",
     "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
-    "terminal.integrated.shell.linux": "/bin/tcsh",
     "terminal.integrated.automationShell.linux": "",
     "python.jediEnabled": false
 }
